@@ -1,13 +1,14 @@
 ﻿/*
 ===============================================================================
  Project:    Superstore Sales Performance Analysis
- Author:     Mohan Kumar
+ Author:    Vishrut Gupta
  Description:
    This SQL script provides an in-depth analysis of the Superstore sales 
    dataset. It includes sales, profit, quantity, shipping trends, customer 
    behavior, product performance, and profitability trends using SQL techniques 
    ranging from basic summaries to advanced window functions.
 ===============================================================================
+
 */
 
 -- Create and use the database
